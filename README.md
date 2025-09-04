@@ -77,7 +77,7 @@ This repo is mainly my **personal learning journey**, but feel free to:
 ## 🙌 Connect with Me  
 📧 Email: *your-email-here*  
 💼 LinkedIn: [Souvick Kumar Halder](https://www.linkedin.com/in/souvick-kumar-halder-752508292/)  
-📺 YouTube: [Vickify](https://youtube.com/@vickify)  
+📺 YouTube: [Vickify](https://www.youtube.com/@vickify-b6l)  
 
 ---
 
