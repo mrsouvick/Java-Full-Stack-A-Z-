@@ -79,6 +79,11 @@ This repo is mainly my **personal learning journey**, but feel free to:
 💼 LinkedIn: [Souvick Kumar Halder](https://www.linkedin.com/in/souvick-kumar-halder-752508292/)  
 📺 YouTube: [Vickify](https://www.youtube.com/@vickify-b6l)  
 
+
+## 🧾 License
+This project is licensed under the [MIT License](./LICENSE).  
+© 2025 Souvick Kumar Halder. All rights reserved.
+
 ---
 #souvick
 ✨ *Follow along and let’s master Full Stack Java together!* 🚀

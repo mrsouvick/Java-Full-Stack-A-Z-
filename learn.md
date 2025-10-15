@@ -1,5 +1,3 @@
-# LEARN.md
-
 # 🚀 Java Full Stack Journey — From Basics to Advanced
 
 Welcome! This document explains, step by step, how I built the `java-fullstack-journey` repo. It includes setup instructions, how to run examples, how I organized code and notes, and where I kept screenshots and demo media. Use this as a guide to reproduce, extend, or learn along with me.
